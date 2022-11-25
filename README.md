@@ -4,9 +4,9 @@
 
 
 
-<div style='display: flex'>
-    <img src="https://github-readme-stats.vercel.app/api?username=marleypm16&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleypm16&layout=compact&theme=tokyonight"/>
+<div>
+    <img width='530em' src="https://github-readme-stats.vercel.app/api?username=marleypm16&show_icons=true&theme=tokyonight"/>
+    <img width='530em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleypm16&layout=compact&theme=tokyonight"/>
 </div>
 
 
