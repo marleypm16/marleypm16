@@ -4,9 +4,9 @@
 ![Marley's GitHub stats](https://github-readme-stats.vercel.app/api?username=marleypm16&show_icons=true&theme=tokyonight)
 
 
-### Tecnologias que utilizo no meu dia a dia
+### Tecnologias que utilizo no meu dia a dia:
 
-### Technologies that I use in my daily life
+### Technologies that I use in my daily life:
 
 
 <div style="display: inline_block"> <br/>
