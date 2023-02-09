@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **marleypm16@gmail.com**
 <h3>Connect with me:</h3>
-<p>
+<p align="left">
     <a href:https://www.linkedin.com/in/marley-martins-206829258/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marleyMartinsLinkedin" height="30" width="40" /></a>
 
 </p>
-### Tecnologias que utilizo no meu dia a dia
+
 ### Technologies that I use in my daily life
 
 <div style="display: inline_block"> <br/>
