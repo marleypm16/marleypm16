@@ -21,5 +21,5 @@
     <a  href="https://www.w3schools.com/css/"><img aling='center' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
     <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img aling='center' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
     <a href="https://pt-br.reactjs.org"><img aling='center'  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-    <a><img aling='center' href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" width = '50px' src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"/></a>
+    <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"><img aling='center' width = '50px' src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"/></a>
 </div>
