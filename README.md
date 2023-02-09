@@ -1,6 +1,5 @@
-<div id="gif" width="100%" height:"100%" >
-      <img alingn="center" width="500em" height="500em" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"></>
-</div>
+<img alingn="center" width="500em" height="500em" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"></>
+
 
 ### Hello there! I´m Marley Martins 👊😄
 
