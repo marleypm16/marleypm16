@@ -3,8 +3,8 @@
 
 ## :computer:  My GitHub Stats
 <div>
-       <img width='530em' src="https://github-readme-stats.vercel.app/api?username=marleypm16&show_icons=true&theme=tokyonight"/>
-    <img width='530em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleypm16&layout=compact&theme=tokyonight"/>
+       <img width='530em' src="https://github-readme-stats-sigma-five.vercel.app/api?username=marleypm16&show_icons=true&theme=tokyonight"/>
+       <img width='530em' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marleypm16&layout=compact&theme=tokyonight"/>
 </div>
 
 - 📫 How to reach me **marleypm16@gmail.com**
