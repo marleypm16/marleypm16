@@ -13,6 +13,7 @@
 
 ### Tecnologias que utilizo no meu dia a dia
 ### Technologies that I use in my daily life
+###CodeWars python -> 6kyo
 
 <div style="display: inline_block"> <br/>
     <img aling='center'  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
