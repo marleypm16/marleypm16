@@ -1,6 +1,6 @@
 
 ## Hello there! I´m Marley Martins 👊😄
-- 🔭 I am currently working as support for a system called Webposto and I also work as a volunteer at the company SouJunior as a front-end developer.
+- 🔭 I started my degree in Information Systems in 2022, focusing on software development. Since then, I have been specializing in front-end development, applying my knowledge to various personal projects. In 2024, I began working professionally as a front-end developer, contributing to the development of web applications using modern technologies such as HTML, CSS, JavaScript, TypeScript, React, Angular, and Next.js, with an emphasis on best development practices. Currently, I am expanding my knowledge to specialize as a fullstack developer, focusing on backend development with Node.js, Express, and relational databases..
 - 🌱 I'm currently learning: Java and Spring
 
 
