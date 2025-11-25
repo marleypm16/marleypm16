@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou Marley, desenvolvedor, sempre buscando criar soluções eficientes, escaláveis e com ótima experiência de uso.  
 Como estudante de **Sistemas de Informação (desde 2022)**, venho construindo projetos reais, explorando arquiteturas robustas e evoluindo tanto no front quanto no back-end.
@@ -13,11 +13,11 @@ Atualmente trabalho com **React, Next.js, Express, Python**, além de aprofundar
 
 Gosto de resolver problemas reais, aprender novas tecnologias e transformar ideias em projetos funcionais.
 
-- 🌍 Moro no **Brasil**
-- 🔭 Atual: desenvolvendo aplicações web e mobile (projetos pessoais e faculdade)
-- 🌱 Estudando: **Next.js, Kotlin, arquitetura de microserviços**
-- ⚡ Hobby: **RPG, corrida, escrever histórias**
-- 📫 Contato: **marleypm16l@gmail.com**
+-  Moro no **Brasil**
+-  Atual: desenvolvendo aplicações web e mobile (projetos pessoais e faculdade)
+-  Estudando: **Next.js, Kotlin, arquitetura de microserviços**
+-  Hobby: **RPG, corrida, escrever histórias**
+-  Contato: **marleypm16l@gmail.com**
 
 ---
 
