@@ -1,12 +1,12 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=100&color=36BCF7&center=false&vCenter=true&width=435&lines=Ola,+eu+sou+Marley!;Bem-vindo+ao+meu+perfil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=400&color=36BCF7&center=false&vCenter=true&width=435&lines=Ola,+eu+sou+Marley!;Desenvolvedor+Full-stack;Bem-vindo+ao+meu+perfil" alt="Typing SVG" />
 </a>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou Marley, desenvolvedor web com foco em **front-end e aplicações modernas**, sempre buscando criar soluções eficientes, escaláveis e com ótima experiência de uso.  
+Sou Marley, desenvolvedor, sempre buscando criar soluções eficientes, escaláveis e com ótima experiência de uso.  
 Como estudante de **Sistemas de Informação (desde 2022)**, venho construindo projetos reais, explorando arquiteturas robustas e evoluindo tanto no front quanto no back-end.
 
 Atualmente trabalho com **React, Next.js, Express, Python**, além de aprofundar conhecimentos em **Kotlin e sistemas distribuídos**.
