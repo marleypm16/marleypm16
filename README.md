@@ -70,7 +70,4 @@ Busco transformar regras de negócio em soluções organizadas, testáveis e fá
 - Conteinerização e automação de deploy;
 - Investigação e correção de erros em sistemas.
 
-## Vamos conversar?
-
-Estou aberto a oportunidades e conexões nas áreas de **desenvolvimento backend e full-stack**. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/marley-martins-206829258) ou entrar em contato pelo [e-mail](mailto:marleypm16@gmail.com).
 
