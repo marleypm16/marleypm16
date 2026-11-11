@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou Marley Martins 👋</h1>
+<h1 align="center">Hi, I'm Marley Martins 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full-stack com foco em Backend • Estudante de Sistemas de Informação na UFRPE
+  Full-stack Developer focused on Backend • Information Systems student at UFRPE
 </p>
 
 <p align="center">
@@ -9,65 +9,68 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:marleypm16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-## Sobre mim
+## About me
 
-Sou estudante de **Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE)**, com formação prevista para **junho de 2027**. Atuo no desenvolvimento de aplicações web e venho direcionando minha carreira para **backend e sistemas full-stack**.
+I'm an **Information Systems** student at the **Federal Rural University of Pernambuco (UFRPE)**, expected to graduate in **2027**. I build **REST APIs, web applications and desktop applications**, turning ideas into reliable, well-structured software.
 
-Tenho experiência prática com construção de APIs, integração com bancos de dados, desenvolvimento de interfaces e conteinerização de aplicações. Entre meus projetos, destaco uma plataforma de monitoramento IoT com **Go, MQTT, InfluxDB e Grafana**, além de aplicações completas com **React, TypeScript, FastAPI e PostgreSQL**.
+I have hands-on experience across the stack: designing and integrating APIs, modeling relational databases, building user interfaces, writing automated tests and setting up containerized environments with CI/CD pipelines. My projects range from an **IoT monitoring platform** to **full-stack business applications**.
 
-Busco transformar regras de negócio em soluções organizadas, testáveis e fáceis de manter. Atualmente, aprofundo meus conhecimentos em **arquitetura de software, sistemas distribuídos, Kotlin e microsserviços**.
+I care about translating business rules into solutions that are clean, testable and easy to maintain.
 
-- 📍 Pernambuco, Brasil
-- 🎓 Sistemas de Informação — UFRPE
-- 💻 Foco profissional: Backend e desenvolvimento Full-stack
-- 🌱 Estudando: Java, microsserviços e arquitetura de software
-- 📫 Contato: [marleypm16@gmail.com](mailto:marleypm16@gmail.com)
+- 📍 Pernambuco, Brazil
+- 💻 Focus: backend and full-stack development
+- 🌱 Currently learning: software architecture, distributed systems and microservices
 
-## Tecnologias
+## Tech stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-### Frontend
+### Frontend & Desktop
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 
-### Dados e infraestrutura
+### Database & Testing
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Projetos em destaque
+## Featured projects
 
-| Projeto | O que demonstra | Tecnologias |
+| Project | Description | Tech |
 | --- | --- | --- |
-| [Soiltune Server](https://github.com/marleypm16/soiltune-server) | Backend para coleta e monitoramento de dados enviados por sensores ESP32, com comunicação MQTT e armazenamento de séries temporais. | Go, MQTT, InfluxDB, Grafana, Docker |
-| [Gestão de Equipes](https://github.com/marleypm16/PSEL-INTEREST-DEV-2025) | Aplicação full-stack com regras de negócio para usuários, equipes e líderes, persistência relacional e testes automatizados. | FastAPI, React, TypeScript, PostgreSQL, Pytest, Cypress |
-| [GestAuto Backend](https://github.com/marleypm16/gestauto-backend) | API para gerenciamento de serviços, clientes, orçamentos, agendamentos, produtos e fluxo financeiro do setor automotivo. | TypeScript, Node.js, PostgreSQL |
-| [API de Obrigações Acessórias](https://github.com/marleypm16/estagio-dev-dcifre) | API REST para cadastro e gerenciamento de empresas e suas obrigações acessórias. | FastAPI, SQLAlchemy, PostgreSQL |
+| [Soiltune Server](https://github.com/marleypm16/soiltune-server) | Backend that collects and monitors data from ESP32 sensors over MQTT, with time-series storage and dashboards. | Go, MQTT, InfluxDB, Grafana, Docker |
+| [Team Management](https://github.com/marleypm16/PSEL-INTEREST-DEV-2025) | Full-stack application with business rules for users, teams and leaders, relational persistence and automated tests. | FastAPI, React, TypeScript, PostgreSQL, Pytest, Cypress |
+| [GestAuto Backend](https://github.com/marleypm16/gestauto-backend) | API for automotive service shops: services, customers, quotes, scheduling, products and cash flow. | TypeScript, Node.js, PostgreSQL |
+| [Tax Compliance API](https://github.com/marleypm16/estagio-dev-dcifre) | REST API for registering companies and managing their accessory tax obligations. | FastAPI, SQLAlchemy, PostgreSQL |
 
-## Experiência e interesses
+## What I do
 
-- Desenvolvimento e manutenção de aplicações web;
-- Criação e integração de APIs REST;
-- Consultas e modelagem com PostgreSQL;
-- Integração entre dispositivos IoT e serviços backend;
-- Conteinerização e automação de deploy;
-- Investigação e correção de erros em sistemas.
-
-
+- Design and build REST APIs and backend services
+- Develop web applications with React and Next.js
+- Build cross-platform desktop apps with Tauri and Rust
+- Model and query relational databases with PostgreSQL
+- Write automated tests with Pytest and Playwright
+- Containerize applications and automate deployments with Docker and GitHub Actions
